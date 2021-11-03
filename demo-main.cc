@@ -9,7 +9,7 @@
 
 #include "pixel-mapper.h"
 #include "graphics.h"
-
+//help me pls
 #include <assert.h>
 #include <getopt.h>
 #include <limits.h>
@@ -1189,3 +1189,4 @@ int main(int argc, char *argv[]) {
   return 0;
 }
 
+i
