@@ -3,6 +3,7 @@
 // This code is public domain
 // (but note, once linked against the led-matrix library, this is
 // covered by the GPL v2)
+//help me pls
 //
 // This is a grab-bag of various demos and not very readable.
 #include "led-matrix.h"
